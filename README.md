@@ -6,8 +6,8 @@ wordleで次に入力すべき単語をリコメンドしてくれるスクリ�
 あまりしっかり作り込んでいませんが、最低限のことはできると思います。
 
 # how to use
-まず最初に```wget https://slc.is/data/wordles.txt```しておいてください。
-また、```sudo pip3 install absl-py```が必要です。
+まず最初に```wget https://slc.is/data/wordles.txt```しておいてください。  
+また、```sudo pip3 install absl-py```も必要です。
 
 ```
 ./recommend.py:
